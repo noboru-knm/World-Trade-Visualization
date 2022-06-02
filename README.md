@@ -1,7 +1,9 @@
 # World-Trade-Visualization
+This is under review.
 
-https://codeocean.com/capsule/7619233/tree
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/7619233/tree)
 
+DOI:https://codeocean.com/capsule/1111874/tree/v1
 
 This is package for visualizing bilateral imports.
 You can visualize the bilateral import volume between Japan and any country.
